@@ -1615,3 +1615,302 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.28-16.04.48:921][931]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.06.28-16.04.48:921][931]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2022.06.28-16.04.48:922][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.28-16.09.29:221][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.06.28-16.09.29:233][364]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/ThirdPersonExampleMapF8BD1E814FF59B99D3B04187C8228C88.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.28-16.09.29:664][364]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/ThirdPersonExampleMap_BuiltData6558445F4BBED246CED5E8B0450B3A05.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.28-16.09.29:676][364]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.28-16.09.29:676][364]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.28-16.09.29:676][364]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.28-16.14.39:214][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.06.28-16.14.39:218][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelIgora" FILE="E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/Autosaves/Game/Maps/LevelIgora_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.28-16.14.39:375][918]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/LevelIgora_Auto1262EE37646983CCF83B861BB6FBA2D61.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/Autosaves/Game/Maps/LevelIgora_Auto1.umap'
+[2022.06.28-16.14.39:376][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.179
+[2022.06.28-16.14.39:376][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.179
+[2022.06.28-16.30.38:573][533]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.06.28-16.30.38:588][533]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.06.28-16.30.44:300][952]LogContentBrowser: Attempting asset rename: NewMaterial -> NMaterial
+[2022.06.28-16.30.44:317][952]LogContentBrowser: End creating deferred item NewMaterial
+[2022.06.28-16.30.45:570][ 34]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NMaterial.NMaterial
+[2022.06.28-16.30.45:571][ 34]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 86D32795407B8B4E0945141C04726CDEC94F6929), compiling. 
+[2022.06.28-16.30.45:599][ 34]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.45:627][ 34]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.06.28-16.30.45:763][ 34]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.28-16.30.45:940][ 34]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6F1F3C833E6DB113259A323D2C3C034F23159DF1), compiling. 
+[2022.06.28-16.30.45:942][ 34]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 300E9A2674EBACD68F68693ADC45B490209A1948), compiling. 
+[2022.06.28-16.30.45:957][ 34]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.30.46:041][ 34]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.30.46:041][ 34]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.28-16.30.46:041][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.28-16.30.46:041][ 34]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.30.46:041][ 34]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.46:126][ 40]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.06.28-16.30.46:126][ 40]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.06.28-16.30.46:126][ 40]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.47:824][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.06.28-16.30.47:824][113]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.47:827][113]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.28-16.30.47:827][113]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.06.28-16.30.47:827][113]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.06.28-16.30.47:827][113]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.28-16.30.47:827][113]LogShaderCompilers: Display: ================================================
+[2022.06.28-16.30.48:051][128]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.06.28-16.30.48:051][128]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.48:052][128]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.30.49:250][205]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.30.49:250][205]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.30.49:250][205]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.30.49:250][205]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.30.49:859][263]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D3E8DFCF7550034503131ECBBE1142C7FF8DEEDD), compiling. 
+[2022.06.28-16.30.49:861][263]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 625BC773045AF00AE12D4DEC86417A5DCAFCFF07), compiling. 
+[2022.06.28-16.30.49:863][263]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.30.49:904][265]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.30.49:904][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.28-16.30.49:904][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.28-16.30.49:904][265]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.30.49:905][265]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.30.49:905][265]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.30.49:905][265]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.30.49:905][265]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.30.51:196][366]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1BBC64DB16FBCD5B2B12BEF39E5C043B790D58FC), compiling. 
+[2022.06.28-16.30.51:197][366]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E6BC64F659EEF4273BDBCBE096E5F4F5E2A235CD), compiling. 
+[2022.06.28-16.30.51:200][366]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.30.51:242][369]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.30.51:242][369]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.30.51:242][369]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.30.51:242][369]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.30.53:179][533]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3FEA1903E78549654F046906DBE622314B59154E), compiling. 
+[2022.06.28-16.30.53:181][533]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AD1C73D16A85914F9CC498898D9D7ED6488BB38D), compiling. 
+[2022.06.28-16.30.53:183][533]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.30.53:202][535]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.30.53:202][535]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.28-16.30.53:202][535]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.28-16.30.53:202][535]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.30.53:202][535]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.53:202][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.06.28-16.30.53:202][535]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.06.28-16.30.53:202][535]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.53:725][562]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.06.28-16.30.53:725][562]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.53:902][574]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.06.28-16.30.53:902][574]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.53:927][575]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.30.55:093][649]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.30.55:093][649]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.30.55:093][649]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.30.55:093][649]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.30.58:676][968]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BD79B8331C663A51520A7DA86769AAC2A2798905), compiling. 
+[2022.06.28-16.30.58:678][968]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 519C900078DC1A7B7C51DE03A0BBBD9B84C967B0), compiling. 
+[2022.06.28-16.30.58:681][968]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.30.58:723][969]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.30.58:723][969]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.28-16.30.58:723][969]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.28-16.30.58:723][969]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.30.58:723][969]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.58:723][969]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.06.28-16.30.58:723][969]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.06.28-16.30.58:723][969]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.59:197][997]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.06.28-16.30.59:197][997]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.59:404][ 10]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.06.28-16.30.59:404][ 10]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.30.59:409][ 10]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.00:786][ 94]MaterialEditorStats: Base pass shader: 116 instructions
+[2022.06.28-16.31.00:786][ 94]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2022.06.28-16.31.00:786][ 94]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.31.00:786][ 94]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.02:227][212]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A6FF5E9FEB9A286D894ABF909CE38ACB9CF56979), compiling. 
+[2022.06.28-16.31.02:230][212]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.31.02:271][214]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.31.02:271][214]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.31.02:271][214]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.31.02:271][214]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.43:769][217]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E2EBDB30B04F8CB39BAE6D1F7FB954BB8CDDCBA0), compiling. 
+[2022.06.28-16.31.43:771][217]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.31.43:811][219]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.31.43:811][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.31.43:811][219]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.31.43:811][219]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.45:360][347]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 690629C82DD9BBA62F67F53F29664F9241D23E22), compiling. 
+[2022.06.28-16.31.45:364][347]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.31.45:380][349]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.31.45:383][349]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.45:385][349]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.28-16.31.45:385][349]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.28-16.31.45:385][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.06.28-16.31.45:385][349]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.06.28-16.31.45:385][349]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.45:385][349]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.31.46:219][400]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.06.28-16.31.46:219][400]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.46:386][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.06.28-16.31.46:386][410]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.46:406][411]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.47:615][487]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.31.47:615][487]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.31.47:615][487]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.31.47:615][487]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.51:891][886]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 953F90F11080A7A993DD44E8E8ACBA28399CEC50), compiling. 
+[2022.06.28-16.31.51:893][886]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C437B8EAB3C3B7824F157F67A2BB1191915CEEE5), compiling. 
+[2022.06.28-16.31.51:895][886]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.31.51:912][888]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.31.51:912][888]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.28-16.31.51:912][888]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.28-16.31.51:912][888]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.31.51:912][888]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.51:917][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.06.28-16.31.51:917][888]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.06.28-16.31.51:917][888]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.52:451][921]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.06.28-16.31.52:451][921]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.52:628][932]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.06.28-16.31.52:628][932]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.52:649][933]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.53:854][  4]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.31.53:854][  4]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.31.53:854][  4]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.31.53:854][  4]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.54:172][ 31]LogMaterialEditor: Applying material NMaterial
+[2022.06.28-16.31.54:516][ 31]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 981B7481B0CB2D3C87847ED3047E50BF2F66AAE4), compiling. 
+[2022.06.28-16.31.54:562][ 31]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B1AB53FD100BBA0030A60E60B21C5C9DA4430777), compiling. 
+[2022.06.28-16.31.54:655][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.06.28-16.31.54:666][ 31]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.31.54:890][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.06.28-16.31.54:890][ 31]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.31.54:890][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.06.28-16.31.54:900][ 31]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.31.54:923][ 33]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.54:934][ 33]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.06.28-16.31.54:934][ 33]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.06.28-16.31.54:934][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.06.28-16.31.54:934][ 33]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.31.54:942][ 33]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.28-16.31.56:096][ 55]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.31.56:096][ 55]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.31.56:096][ 55]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.31.56:096][ 55]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.28-16.32.03:626][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Enemy.Enemy
+[2022.06.28-16.32.13:529][ 45]LogMaterial: Display: Missing cached shadermap for M_LightStage_Skybox_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 319760BB7FF317F77AD762AA37E5887C38C42E23), compiling. 
+[2022.06.28-16.32.13:548][ 45]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.06.28-16.32.13:550][ 45]LogMaterial: Display: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master needed to have new flag set bUsedWithSkeletalMesh !
+[2022.06.28-16.32.13:552][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.06.28-16.32.13:552][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.06.28-16.32.13:552][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.06.28-16.32.13:552][ 45]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.06.28-16.32.13:552][ 45]LogMaterial: Display: Missing cached shadermap for M_LightStage_Skybox_Master in PCD3D_SM5, Default, SM5 (DDC key hash: BA4B60813946538266A2ECE213465DD722ECE3EA), compiling. 
+[2022.06.28-16.32.13:574][ 45]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.06.28-16.32.13:574][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.06.28-16.32.13:574][ 45]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.06.28-16.32.14:001][ 60]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.28-16.32.14:001][ 60]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.28-16.32.14:307][ 71]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.06.28-16.32.14:307][ 71]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.14:403][ 74]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.06.28-16.32.14:403][ 74]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.14:431][ 75]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.28-16.32.14:431][ 75]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.18:473][259]LogMaterial: Display: Material /Game/NMaterial.NMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2022.06.28-16.32.18:473][259]LogMaterial: Display: Material /Engine/Transient.NMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2022.06.28-16.32.18:474][259]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FA87557905ECB4F10C5692B2C621605F2738D899), compiling. 
+[2022.06.28-16.32.18:491][259]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.18:492][259]LogMaterial: Display: Missing cached shadermap for NMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 23DC49BE209E403881F53745FEE9C920EC521A3A), compiling. 
+[2022.06.28-16.32.18:521][259]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.06.28-16.32.18:521][259]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.06.28-16.32.18:521][259]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.06.28-16.32.18:521][259]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.06.28-16.32.18:521][259]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.18:521][259]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.06.28-16.32.18:544][259]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.28-16.32.18:585][260]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.28-16.32.19:183][288]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.06.28-16.32.19:184][288]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.19:696][314]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.06.28-16.32.19:696][314]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.19:696][314]BlueprintLog: New page: Compile Enemy
+[2022.06.28-16.32.19:809][314]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.06.28-16.32.19:809][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.19:814][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.06.28-16.32.19:919][315]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.06.28-16.32.19:919][315]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.28-16.32.20:847][341]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.28-16.32.20:847][341]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.28-16.32.20:847][341]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.28-16.32.20:847][341]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2022.06.28-16.32.20:847][341]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.28-16.32.33:634][542]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.28-16.32.33:641][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.28-16.32.33:641][542]PIE: New page: PIE session: ThirdPersonExampleMap (28 cze 2022, 20:32:33)
+[2022.06.28-16.32.33:682][542]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.28-16.32.33:685][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002529s)
+[2022.06.28-16.32.33:686][542]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.28-16.32.33:686][542]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2022.06.28-16.32.33:686][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.003591s)
+[2022.06.28-16.32.33:706][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.06.28-16.32.33:707][542]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.06.28-16.32.33:707][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.28-16.32.33:707][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.28-16.32.33:707][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.28-16.32.33:707][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.28-16.32.33:707][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.28-16.32.33:707][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.28-16.32.33:707][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.28-16.32.33:708][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.28-16.32.33:708][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.28-16.32.33:708][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.28-16.32.33:708][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.28-16.32.33:708][542]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.28-16.32.33:712][542]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.28-16.32.33:712][542]LogAudioMixer: Display: 1: FrontRight
+[2022.06.28-16.32.33:734][542]LogAudioMixer: Display: Using Audio Device Głośniki / Słuchawki (Realtek Audio)
+[2022.06.28-16.32.33:734][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.28-16.32.33:734][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.28-16.32.33:734][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.28-16.32.33:734][542]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.28-16.32.33:734][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.28-16.32.33:734][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.28-16.32.33:735][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.28-16.32.33:735][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.28-16.32.33:735][542]LogInit: FAudioDevice initialized.
+[2022.06.28-16.32.33:735][542]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2022.06.28-16.32.33:748][542]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.06.28-16.32.33:842][542]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.28-18.32.33
+[2022.06.28-16.32.33:844][542]LogWorld: Bringing up level for play took: 0.002730
+[2022.06.28-16.32.33:845][542]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.06.28-16.32.33:850][542]PIE: Server logged in
+[2022.06.28-16.32.33:851][542]PIE: Play in editor total start time 0,213 seconds.
+[2022.06.28-16.32.37:663][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.28-16.32.37:663][887]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.28-16.32.37:665][887]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.28-16.32.37:665][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.28-16.32.37:677][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.28-16.32.37:693][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.28-16.32.37:711][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.28-16.32.37:712][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.28-16.32.37:713][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.28-16.32.37:715][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.28-16.32.37:720][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.06.28-16.32.37:757][888]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.06.28-16.32.37:776][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.06.28-16.32.38:364][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.28-16.32.38:372][933]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/ThirdPersonExampleMap3EBAE75A41339A54184F9CA4010B80C6.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.28-16.32.38:656][933]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/ThirdPersonExampleMap_BuiltDataBCB1DF2D4DB48E12553BF6ADC9AD93D5.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.28-16.32.38:667][933]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.28-16.32.38:667][933]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.28-16.32.38:667][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.28-16.32.40:447][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.06.28-16.32.40:466][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelIgora" FILE="E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/Maps/LevelIgora.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.28-16.32.40:483][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.28-16.32.40:639][ 76]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/LevelIgoraDA682AD84D33ABB79C7C29B13DC5E838.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/Maps/LevelIgora.umap'
+[2022.06.28-16.32.40:639][ 76]LogFileHelpers: Saving map 'LevelIgora' took 0.174
+[2022.06.28-16.32.40:662][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2022.06.28-16.32.40:682][ 76]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/Enemy719B5A0640997B9109D8F3A1208C554B.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2022.06.28-16.32.40:706][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy_Child" FILE="E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/ThirdPersonBP/Blueprints/Enemy_Child.uasset" SILENT=true
+[2022.06.28-16.32.40:718][ 76]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/Enemy_Child1A78D10D488AC27588503F9778629FC0.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/ThirdPersonBP/Blueprints/Enemy_Child.uasset'
+[2022.06.28-16.32.40:726][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NMaterial" FILE="E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/NMaterial.uasset" SILENT=true
+[2022.06.28-16.32.40:730][ 76]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/NMaterialAC8EB14E4C35237D567D838E324D045D.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/NMaterial.uasset'
+[2022.06.28-16.32.40:744][ 76]LogSavePackage: Moving 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Saved/M_LightStage_Skybox_Master4F0F7FA24F7D620F3BAB8DB538BA53C5.tmp' to 'E:/Grafa/KartosProjekt-main/IgorMrowiec2sw2rafin/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset'
+[2022.06.28-16.32.40:761][ 76]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.28-16.32.40:761][ 76]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enemy.Enemy
+[2022.06.28-16.32.40:761][ 76]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enemy_Child.Enemy_Child
+[2022.06.28-16.32.40:761][ 76]LogContentValidation: Display: Validating World /Game/Maps/LevelIgora.LevelIgora
+[2022.06.28-16.32.40:761][ 76]LogContentValidation: Display: Validating Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master
+[2022.06.28-16.32.40:761][ 76]LogContentValidation: Display: Validating Material /Game/NMaterial.NMaterial
